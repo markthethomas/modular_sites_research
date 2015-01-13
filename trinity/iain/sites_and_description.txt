@@ -46,3 +46,11 @@ http://thisistheplace.tv/
 
  --The way that this leads you to the content page that you want is clean and
    helps filter the user's interest
+
+http://www.montagebook.com/
+
+ --I like how the menu goes from bottom to top
+
+http://www.blocklevel.nl/
+
+  --I like how all of the content is placed in responsive tiles 
