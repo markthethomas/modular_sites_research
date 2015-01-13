@@ -3,7 +3,7 @@ General Thoughts:
 -any websites that rely on a scroll for pagination have an arrow to indicate
  the need for scrolling and a way for the user to monitor which page they are
  on.
-
+-great examples here: http://speckyboy.com/2014/07/07/flat-web-designs-2014/
 
 
 List of Websites:
@@ -36,3 +36,13 @@ http://stashflaticons.com/
 
  --This is so simple and easy to navigate with no scrolling and everything laid
    in front of you.
+
+http://acapo.com/
+
+ --Giving a decision in the being and basing the site off of that decision seems
+   to be a great way to tailor content
+
+http://thisistheplace.tv/
+
+ --The way that this leads you to the content page that you want is clean and
+   helps filter the user's interest
