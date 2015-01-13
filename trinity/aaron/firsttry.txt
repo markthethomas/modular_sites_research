@@ -1,1 +1,63 @@
 This is a first try.
+
+http://brianhoffdesign.com/#/work
+
+Hoff's design is very simple; menu labels replaced by two icons
+one for HOME and another for Work, About, Contact, Blog.
+
+ http://dreamandreach.bose.com/home
+
+ The Bose site is a mentioned at awwward.com.  The home page gives you a choice
+ of two videos to watch.  Menu on the right at icon with three bars.
+
+ http://www.siteinspire.com/websites/5228-brian-hoff-design
+
+ http://www.thenextweb.com/
+
+ One tred, storytelling. Mix with persona.  Have a story about each persona was
+ involed with CHF.  After story, move on to information for that persona.
+
+ http://blog.hubspot.com/blog/tabid/6307/bid/32434/How-to-Design-a-Persona-Centric-Website-Experience.aspx
+ Who are you?  What do you want to do?  Idea of designing your own adventure.
+ Might ask, Who are you?  Are you like John, who volunteers regularly and delivers boxes ...
+ have a video, testimony and also menu options that appear with volunteer
+ When mouse moves over volunteer, you get option of hearing a testimony and other menu items.
+
+Menu options such as "About Us" and then "About You" and "Donate".
+Under "About You",  say  "Friends like YOU make CHF the ministry that it is!  Some of you, like John,
+volunteer time to give out food packs.  To hear John's story, click here.  To learn about how you could
+volunteer, click here."
+"Some of you, like Pastor Bob, have made mercy ministry ..."
+"Some of you, like Carol, are corporate sponsors, ....  To learn more, ..."
+Have pictures and info as mouse passes over?
+This is similar to the Brian Hoff/work page.
+
+
+
+ www.worldvision.com
+
+ The landing page has way to give, so immediately opening to the individual donor.
+ There is a Ways To Give tab on the menu; there you find donation options for businesses
+ and churches.
+
+ http://www.oxfamamerica.org/?utm_medium=referral&utm_source=oxfam.org&utm_campaign=oi-lightbox
+
+ Across top, "Explore", "Take Action" and "Give" ;   across bottom, "Volunteer", "Take Action", "Donate".
+
+
+www.children'shopechest.org
+Menu:  About and related topics, donate, get involved.
+
+
+ What are the CHF persona?
+ Individual donor?
+ Person wanting to volunteer.
+ Pastor/Church leader wanting training/volunteer.
+ Corporate donor.
+
+ Program button
+   Various programs, volunteering, training, etc.
+ Donate button.
+ Donate includes invididual and corporate.
+
+ What are the statistics on web usage and what people do at the website?
