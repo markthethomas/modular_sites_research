@@ -1,0 +1,38 @@
+General Thoughts:
+
+-any websites that rely on a scroll for pagination have an arrow to indicate
+ the need for scrolling and a way for the user to monitor which page they are
+ on.
+
+
+
+List of Websites:
+
+http://parallaxis.it/
+
+ --This site uses flat/responsive design elements on a single scrolling
+   page. I especially like the team section
+
+Makers Quarter
+
+ --This page does not have the same layout as the screenshot but, the layout
+   present in the screen shot would be a good way to organize the top of the page
+
+http://www.drinksmartwater.com/
+
+ --Although the website is a little bit much, the idea of scrolling up was
+   what I found interesting.
+
+http://www.antemeridiemdesign.com/index.php
+
+ --I especially like the work section with the responsive tiles
+
+http://bear.canu.se/
+
+ --Although the content is not G rated, the idea of a story leading you to a
+   location is very creative
+
+http://stashflaticons.com/
+
+ --This is so simple and easy to navigate with no scrolling and everything laid
+   in front of you.
