@@ -16,7 +16,8 @@ http://parallaxis.it/
 Makers Quarter
 
  --This page does not have the same layout as the screenshot but, the layout
-   present in the screen shot would be a good way to organize the top of the page
+   present in the screen shot would be a good way to organize the
+   top of the page
 
 http://www.drinksmartwater.com/
 
@@ -34,18 +35,18 @@ http://bear.canu.se/
 
 http://stashflaticons.com/
 
- --This is so simple and easy to navigate with no scrolling and everything laid
-   in front of you.
+ --This is so simple and easy to navigate with no scrolling and everything
+ laid in front of you.
 
 http://acapo.com/
 
  --Giving a decision in the being and basing the site off of that decision seems
-   to be a great way to tailor content
+  to be a great way to tailor content
 
 http://thisistheplace.tv/
 
  --The way that this leads you to the content page that you want is clean and
-   helps filter the user's interest
+ helps filter the user's interest
 
 http://www.montagebook.com/
 
@@ -53,4 +54,4 @@ http://www.montagebook.com/
 
 http://www.blocklevel.nl/
 
-  --I like how all of the content is placed in responsive tiles 
+  --I like how all of the content is placed in responsive tiles
